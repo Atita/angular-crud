@@ -1,0 +1,27 @@
+{
+  "name": "angular-crud",
+  "version": "1.0.0",
+  "description": "CRUD implementation in Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atita/angular-crud.git"
+  },
+  "keywords": [
+    "CRUD",
+    "angular",
+    "data"
+  ],
+  "author": "Anatoly Guaniezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atita/angular-crud/issues"
+  },
+  "homepage": "https://github.com/Atita/angular-crud#readme",
+  "devDependencies": {
+    "@angular/cli": "^6.0.8"
+  }
+}
